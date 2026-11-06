@@ -7,3 +7,7 @@
 恢复存档前退出游戏并备份现有存档，然后将 `Saves` 中的文件复制到 `%USERPROFILE%\AppData\LocalLow\Questing Goose Studio\Probably Stolen\`。
 
 压缩包与 SHA-256 校验文件存放在私有仓库的 Releases 中。
+
+## 2026-11-06 存档备份
+
+[save2](save2/) 包含本次备份的 12 个 `.es3` 存档文件。恢复前退出游戏并备份现有存档，然后将这些文件复制到上面的存档目录。原有 Releases 备份保留。
