@@ -1,0 +1,12 @@
+博士商品优化 v1.0.4
+重启游戏，保持 local.jackson-backpack-memory 模组启用，再进入博士商店。
+普通机器商品替换成随机模组或节点，每个换一件。已买过的背包也继续按同样规则替换。
+过滤清单：投影仪(mirage_projector)、警报器(security_alarm)、storage_bay、machine_bay、smuggler_bay、熔炉(furnace)、冰箱(fridge)、解序器(desequencer)、水瓶打印机(bottle_printer)、净水器(water_purifier)、水箱(water_tank)、moisture_farm、水培机(hydroponic)、循环水养殖系统(ras)、饲料分配器(livestock_feed_dispenser)、自动屠宰机(auto_butcher)。
+只处理博士待售商品，不处理玩家拥有的物品。特殊库存高级设备、工具、扩容套件、耗材与DNA机器保留。
+普通机器无论是否买过均过滤；背包仍仅过滤买过的款式。
+若随机商品放不下，尝试100点能量信用商品；再失败则保留原商品。
+原购买记忆不变。旧版文件已备份。
+
+1.0.3修复：主菜单未载入存档时禁止访问PlayerStore.Instance，防止初始化异常及每帧报错。已用真实游戏程序集复现旧错误并验证修复。
+
+1.0.4：恢复充电器(recharger)原版售卖规则，不再过滤或替换。

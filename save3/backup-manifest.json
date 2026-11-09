@@ -1,0 +1,160 @@
+{
+  "createdAt": "2026-11-09T00:19:44.239Z",
+  "files": [
+    {
+      "path": "SaveFile.es3",
+      "bytes": 6886,
+      "sha256": "7ca73305f535bbb464388cccf25679bb27c7d5f203a704dd6c885fc8b83352e1"
+    },
+    {
+      "path": "saves_index.es3",
+      "bytes": 1830,
+      "sha256": "16a9c96e1aafd7d1c00a7a5de7b86f6c189e612f498dbb25f24c031d4123adf9"
+    },
+    {
+      "path": "save_3.es3",
+      "bytes": 5653952,
+      "sha256": "4b1118012f03c8306ee89d62a641f29b74fc9fec08938c0e5b9ca64dd1f59956"
+    },
+    {
+      "path": "save_3_day46_20261104-071250.es3",
+      "bytes": 3619960,
+      "sha256": "b21ea673daa150512dc32ed72764171f00f9d87a15c5882a6af7abeba0addabd"
+    },
+    {
+      "path": "save_3_day47_20261104-073254.es3",
+      "bytes": 3885667,
+      "sha256": "ba498ef3979c3429edefe396b65060afc22e8ac0ce237b97042c785c41a1a1af"
+    },
+    {
+      "path": "save_3_day54_20261104-144005.es3",
+      "bytes": 5080012,
+      "sha256": "ab71ef9a6c73624503abe448c3b94b4e35253a802166e4761c4339b6359b23c5"
+    },
+    {
+      "path": "save_3_day55_20261104-155342.es3",
+      "bytes": 5500344,
+      "sha256": "d113164f6954a55d44cd50b0dc4cdb77c121d0180ad86cb3d24adbd3107b3cb8"
+    },
+    {
+      "path": "save_3_day64_20261104-221136.es3",
+      "bytes": 5588625,
+      "sha256": "3dc7205c6108064e4cbe6d855188e26bb6190deb7bee783e1b6227468b5d1947"
+    },
+    {
+      "path": "save_3_day65_20261105-071135.es3",
+      "bytes": 5712753,
+      "sha256": "4525d8c17263ad91ca837d7835b3be935ee89b190e0dca0e510651c94a23decb"
+    },
+    {
+      "path": "save_4.es3",
+      "bytes": 15722149,
+      "sha256": "60b0d92b5991879d5714ff951abb6afdf05cd30eabd5149cc3eaf52c2aacf9a4"
+    },
+    {
+      "path": "save_4_day143_20261108-210240.es3",
+      "bytes": 12770943,
+      "sha256": "478a42049311ca2e28c1c965ef5de696e590df21fc8417d48e4f6b93a30dbbc3"
+    },
+    {
+      "path": "save_4_day144_20261108-212757.es3",
+      "bytes": 14234034,
+      "sha256": "46b730416f2e6037c748ae812a9dded983df1d082d534496287495b29832071c"
+    },
+    {
+      "path": "save_4_day53_20261105-211934.es3",
+      "bytes": 2306778,
+      "sha256": "8a6dde8b3ec208e906058925726c00eccb7fc436ac790b03928d73697b625e4a"
+    },
+    {
+      "path": "save_4_day54_20261105-213000.es3",
+      "bytes": 2337509,
+      "sha256": "9ad06af8b6e9528d21a8b7b4bef0b628128eb925d31e78bfb96cacbf0a179e52"
+    },
+    {
+      "path": "save_4_day80_20261106-074507.es3",
+      "bytes": 5078111,
+      "sha256": "5c0b3e02bf461bf5fd1d817566aff88e50aa7a4e6bb2c57d6e2291318dc783df"
+    },
+    {
+      "path": "save_4_day81_20261106-080356.es3",
+      "bytes": 5227789,
+      "sha256": "b58622f3ebfbff136a349b8a5f6e92abaf7b36a90d87539c9f506bc13f5d105d"
+    },
+    {
+      "path": "Mods/BuyerDemandHighlight/BuyerDemandHighlight.dll",
+      "bytes": 9216,
+      "sha256": "99305fdd1081902c46dcdf158e1f31976f8efee7ddb8860f0285b0a610736fcd"
+    },
+    {
+      "path": "Mods/BuyerDemandHighlight/manifest.xml",
+      "bytes": 559,
+      "sha256": "e16d98f93b17af3ab818a36470d66bf9207764ffdd73c4a6f7e3bf7688c6653b"
+    },
+    {
+      "path": "Mods/BuyerDemandHighlight/使用说明.txt",
+      "bytes": 1156,
+      "sha256": "d4e87012f68c8ba239ef53d36e738fa43b076a6729214ed6edc3c1ab098cc18e"
+    },
+    {
+      "path": "Mods/CounterfeitMarker/CounterfeitMarker.dll",
+      "bytes": 8704,
+      "sha256": "d0242d0141e1bdf28501e87ea1b931b656bf40a48679e88eb9842ea37128ad14"
+    },
+    {
+      "path": "Mods/CounterfeitMarker/manifest.xml",
+      "bytes": 529,
+      "sha256": "a812868cc482b3d527d321fb55dda899c1df089f46ab394ad437cbf698cc56b7"
+    },
+    {
+      "path": "Mods/CounterfeitMarker/使用说明.txt",
+      "bytes": 755,
+      "sha256": "3602408b7e170ab553bc724922d480d7467aba46d95d9e9e9938d40e965b9d01"
+    },
+    {
+      "path": "Mods/JacksonBackpackMemory/JacksonBackpackMemory.dll",
+      "bytes": 9728,
+      "sha256": "90235b67359a1cdd855349dda7b03b81e90efc19aa16ec9ee62c5f8f79e3c7c3"
+    },
+    {
+      "path": "Mods/JacksonBackpackMemory/manifest.xml",
+      "bytes": 592,
+      "sha256": "928225f6c5cf0561726fd7a0100a071deae3bf9ada36b442b4cd7a39ca83a866"
+    },
+    {
+      "path": "Mods/JacksonBackpackMemory/使用说明.txt",
+      "bytes": 1263,
+      "sha256": "8abc388a68535764aecef65e6799e9c75fb44842c323cc37448f31ff6976e0ec"
+    },
+    {
+      "path": "Mods/MagnifierPrice/MagnifierPrice.dll",
+      "bytes": 6656,
+      "sha256": "cd722f7e01efd7883176f70b6a11f1407fb5aa73d578a0b60849795288ca69b9"
+    },
+    {
+      "path": "Mods/MagnifierPrice/manifest.xml",
+      "bytes": 509,
+      "sha256": "85b7bcf35532da800f9ffe6b4e835c35fef2648ecb9d175e860a39afa3913b65"
+    },
+    {
+      "path": "Mods/MagnifierPrice/使用说明.txt",
+      "bytes": 658,
+      "sha256": "4c11121aaf91b70af1a19b89656d43a62770ec3b709267d531317f1ef1744a47"
+    },
+    {
+      "path": "Mods/RatStatusHighlight/manifest.xml",
+      "bytes": 580,
+      "sha256": "c8f803766e6f9bcf83effbf9f52c7229b3dfdb9ba331a0a29cae83a268aa3292"
+    },
+    {
+      "path": "Mods/RatStatusHighlight/RatStatusHighlight.dll",
+      "bytes": 12288,
+      "sha256": "cad2313306f93a101a9867aa009cf243e588ff9727583b6700ed4ba924925ffa"
+    },
+    {
+      "path": "Mods/RatStatusHighlight/使用说明.txt",
+      "bytes": 1194,
+      "sha256": "2e404d3a0de845b493b34b70da324977d4a6958fb79297b95269ced2f26d7ae1"
+    }
+  ]
+}
