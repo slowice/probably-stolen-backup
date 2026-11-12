@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mod><ID>local.magnifier-price</ID><Name>放大镜显示价格 / Magnifier Price</Name><Author>Local Custom Mod</Author><ModVersion>1.0.0</ModVersion><Description>打开物品鉴定界面时显示正确鉴定价格；普通物品显示当前参考价值。不会自动填写、提交鉴定或改变物品。</Description><GameVersions><Version>VERSION 100-Rev3</Version></GameVersions><Assemblies><Assembly>MagnifierPrice.dll</Assembly></Assemblies><Capabilities/></Mod>

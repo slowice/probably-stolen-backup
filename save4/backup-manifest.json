@@ -1,0 +1,230 @@
+{
+  "files": [
+    {
+      "bytes": 3619960,
+      "sha256": "B21EA673DAA150512DC32ED72764171F00F9D87A15C5882A6AF7ABEBA0ADDABD",
+      "file": "save_3_day46_20261104-071250.es3"
+    },
+    {
+      "bytes": 3885667,
+      "sha256": "BA498EF3979C3429EDEFE396B65060AFC22E8AC0CE237B97042C785C41A1A1AF",
+      "file": "save_3_day47_20261104-073254.es3"
+    },
+    {
+      "bytes": 5080012,
+      "sha256": "AB71EF9A6C73624503ABE448C3B94B4E35253A802166E4761C4339B6359B23C5",
+      "file": "save_3_day54_20261104-144005.es3"
+    },
+    {
+      "bytes": 5500344,
+      "sha256": "D113164F6954A55D44CD50B0DC4CDB77C121D0180AD86CB3D24ADBD3107B3CB8",
+      "file": "save_3_day55_20261104-155342.es3"
+    },
+    {
+      "bytes": 5588625,
+      "sha256": "3DC7205C6108064E4CBE6D855188E26BB6190DEB7BEE783E1B6227468B5D1947",
+      "file": "save_3_day64_20261104-221136.es3"
+    },
+    {
+      "bytes": 5712753,
+      "sha256": "4525D8C17263AD91CA837D7835B3BE935EE89B190E0DCA0E510651C94A23DECB",
+      "file": "save_3_day65_20261105-071135.es3"
+    },
+    {
+      "bytes": 5653952,
+      "sha256": "4B1118012F03C8306EE89D62A641F29B74FC9FEC08938C0E5B9CA64DD1F59956",
+      "file": "save_3.es3"
+    },
+    {
+      "bytes": 16073197,
+      "sha256": "D219016694D0830780E58FFF3CA049B6A65A18B106B2476E596EBF024C6BF63D",
+      "file": "save_4_day152_20261110-155847.es3"
+    },
+    {
+      "bytes": 18431434,
+      "sha256": "1469BC1B5C3CDC64A1F5F773A9A359F8C67EFB0A803005B2DA781D3809DBD336",
+      "file": "save_4_day153_20261110-163331.es3"
+    },
+    {
+      "bytes": 2306778,
+      "sha256": "8A6DDE8B3EC208E906058925726C00ECCB7FC436AC790B03928D73697B625E4A",
+      "file": "save_4_day53_20261105-211934.es3"
+    },
+    {
+      "bytes": 2337509,
+      "sha256": "9AD06AF8B6E9528D21A8B7B4BEF0B628128EB925D31E78BFB96CACBF0A179E52",
+      "file": "save_4_day54_20261105-213000.es3"
+    },
+    {
+      "bytes": 5078111,
+      "sha256": "5C0B3E02BF461BF5FD1D817566AFF88E50AA7A4E6BB2C57D6E2291318DC783DF",
+      "file": "save_4_day80_20261106-074507.es3"
+    },
+    {
+      "bytes": 5227789,
+      "sha256": "B58622F3EBFBFF136A349B8A5F6E92ABAF7B36A90D87539C9F506BC13F5D105D",
+      "file": "save_4_day81_20261106-080356.es3"
+    },
+    {
+      "bytes": 6652504,
+      "sha256": "9D78F51EAFFC05B9625C430BDA6C847995C97247CA2E0F29FFCA5674B0A1E6EC",
+      "file": "save_4_day91_20261106-140548.es3"
+    },
+    {
+      "bytes": 6747220,
+      "sha256": "CEBF0547713F3A7CC63B94397F3B6E8D5E91FC664BD06670556C3FB7B25FD470",
+      "file": "save_4_day92_20261106-141953.es3"
+    },
+    {
+      "bytes": 17302927,
+      "sha256": "8E4E7DA492BB671C3154949200856D952416C6FFA45A1F678EFE5BE1E88A40E3",
+      "file": "save_4.es3"
+    },
+    {
+      "bytes": 629558,
+      "sha256": "DD6D65CBF7741CD6241277B5832C8313C0FDA759273D43FE211B141AD97A6307",
+      "file": "save_5_day23_20261111-152334.es3"
+    },
+    {
+      "bytes": 518230,
+      "sha256": "97E68324CE76FA852385AE7654594A84A96F6549C0FFC96EEA764A069FC96C5F",
+      "file": "save_5_day24_20261111-152522.es3"
+    },
+    {
+      "bytes": 568172,
+      "sha256": "07B229EBC16E48BFD23716995491BA56BAD493A4E93D1CDE5AD1AD082A726BD5",
+      "file": "save_5.es3"
+    },
+    {
+      "bytes": 275273,
+      "sha256": "1913D59EEEE72F6FA1852420485DD22FF5F9CCB0E113F82CB29D1D76524244AE",
+      "file": "save_6_day3_20261111-154741.es3"
+    },
+    {
+      "bytes": 261393,
+      "sha256": "21A57252CD7735D26E3B06E62B5BB281E4F8A6155C38BF50A81F6809508D490C",
+      "file": "save_6_day4_20261111-155036.es3"
+    },
+    {
+      "bytes": 250950,
+      "sha256": "B81A2BCB2C04F418A9901CDC9CD5EC046EB4E657F14BE42C6A6AC57D1690D468",
+      "file": "save_6.es3"
+    },
+    {
+      "bytes": 1656047,
+      "sha256": "B0645CD8B426FDA0202F3A5D6773A72D15303E49E6CC7EAFEF40BF08430353CC",
+      "file": "save_7_day53_20261112-212802.es3"
+    },
+    {
+      "bytes": 1459935,
+      "sha256": "8E000FA71DD53DDD8148A050BEDFC2F7A3475F3ACC49887F89EC9C355453856D",
+      "file": "save_7_day54_20261112-213334.es3"
+    },
+    {
+      "bytes": 1468670,
+      "sha256": "4DD59DA60A9AF48A664A6D23F4F9F4833E8F643A52E55591C801C4D62A7BD66A",
+      "file": "save_7.es3"
+    },
+    {
+      "bytes": 6886,
+      "sha256": "7CA51F1A3C7C6ABAA6553EF33CA7D1C4AC9CA4A59CBF1A6DFDDFEBC73891F069",
+      "file": "SaveFile.es3"
+    },
+    {
+      "bytes": 4063,
+      "sha256": "084CA95474930E45D62A58C7C8CA6B0580107F918710E34B8161662B0ECE09B6",
+      "file": "saves_index.es3"
+    },
+    {
+      "bytes": 1156,
+      "sha256": "D4E87012F68C8BA239EF53D36E738FA43B076A6729214ED6EDC3C1AB098CC18E",
+      "file": "Mods/BuyerDemandHighlight/使用说明.txt"
+    },
+    {
+      "bytes": 9216,
+      "sha256": "99305FDD1081902C46DCDF158E1F31976F8EFEE7DDB8860F0285B0A610736FCD",
+      "file": "Mods/BuyerDemandHighlight/BuyerDemandHighlight.dll"
+    },
+    {
+      "bytes": 559,
+      "sha256": "E16D98F93B17AF3AB818A36470D66BF9207764FFDD73C4A6F7E3BF7688C6653B",
+      "file": "Mods/BuyerDemandHighlight/manifest.xml"
+    },
+    {
+      "bytes": 820,
+      "sha256": "14B0A4B96417799F0484E6C1E4887CF051E8D2971AEC7167A0810D156E347DC0",
+      "file": "Mods/CounterfeitWarning/使用说明.txt"
+    },
+    {
+      "bytes": 17408,
+      "sha256": "E8A11EDFD2F432121A709B279588AFABE7E38DD48DEF2CBED7A72258C8F4BBAE",
+      "file": "Mods/CounterfeitWarning/CounterfeitWarning.dll"
+    },
+    {
+      "bytes": 771,
+      "sha256": "BB0DA3227B92D93D37097D739685CFA44DB06AE0713E11E1D13E15A71AB5DCB1",
+      "file": "Mods/CounterfeitWarning/manifest.xml"
+    },
+    {
+      "bytes": 1263,
+      "sha256": "8ABC388A68535764AECEF65E6799E9C75FB44842C323CC37448F31FF6976E0EC",
+      "file": "Mods/JacksonBackpackMemory/使用说明.txt"
+    },
+    {
+      "bytes": 9728,
+      "sha256": "90235B67359A1CDD855349DDA7B03B81E90EFC19AA16EC9EE62C5F8F79E3C7C3",
+      "file": "Mods/JacksonBackpackMemory/JacksonBackpackMemory.dll"
+    },
+    {
+      "bytes": 592,
+      "sha256": "928225F6C5CF0561726FD7A0100A071DEAE3BF9ADA36B442B4CD7A39CA83A866",
+      "file": "Mods/JacksonBackpackMemory/manifest.xml"
+    },
+    {
+      "bytes": 658,
+      "sha256": "4C11121AAF91B70AF1A19B89656D43A62770EC3B709267D531317F1EF1744A47",
+      "file": "Mods/MagnifierPrice/使用说明.txt"
+    },
+    {
+      "bytes": 6656,
+      "sha256": "CD722F7E01EFD7883176F70B6A11F1407FB5AA73D578A0B60849795288CA69B9",
+      "file": "Mods/MagnifierPrice/MagnifierPrice.dll"
+    },
+    {
+      "bytes": 509,
+      "sha256": "85B7BCF35532DA800F9FFE6B4E835C35FEF2648ECB9D175E860A39AFA3913B65",
+      "file": "Mods/MagnifierPrice/manifest.xml"
+    },
+    {
+      "bytes": 852,
+      "sha256": "26B7C681F71C9E6A8F8FEEB2F1CB2D6A05798F41592D46CFF312D5F9C036567A",
+      "file": "Mods/NpcBombProtection/使用说明.txt"
+    },
+    {
+      "bytes": 585,
+      "sha256": "F3167C811EBAD2764BCA821FC9A4622C9A2770EEF2F04655AF572DEC713A4500",
+      "file": "Mods/NpcBombProtection/manifest.xml"
+    },
+    {
+      "bytes": 4608,
+      "sha256": "FCB2F27DF414EB8DEEDE961122C07A8D948A6FE7BF588DD6CDB7AF414F43C23C",
+      "file": "Mods/NpcBombProtection/NpcBombProtection.dll"
+    },
+    {
+      "bytes": 1194,
+      "sha256": "2E404D3A0DE845B493B34B70DA324977D4A6958FB79297B95269CED2F26D7AE1",
+      "file": "Mods/RatStatusHighlight/使用说明.txt"
+    },
+    {
+      "bytes": 580,
+      "sha256": "C8F803766E6F9BCF83EFFBF9F52C7229B3DFDB9BA331A0A29CAE83A268AA3292",
+      "file": "Mods/RatStatusHighlight/manifest.xml"
+    },
+    {
+      "bytes": 12288,
+      "sha256": "CAD2313306F93A101A9867AA009CF243E588FF9727583B6700ED4BA924925FFA",
+      "file": "Mods/RatStatusHighlight/RatStatusHighlight.dll"
+    }
+  ],
+  "date": "2026-11-12"
+}
