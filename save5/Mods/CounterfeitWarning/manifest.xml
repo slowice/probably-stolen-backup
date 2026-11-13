@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod>
+  <ID>local.counterfeit-warning</ID>
+  <Name>假货与改造人提示 / Counterfeit Warning</Name>
+  <Author>Local Custom Mod</Author>
+  <ModVersion>1.3.0</ModVersion>
+  <Description>自动显示免疫宁、香烟、食品券、Ribwich 与假酒的真实鉴别结果；免疫宁过期及不可用单独提示。原因采用放大镜鉴别选项原文，显示在物品悬停说明和卖家商品清单。水显示实际品质、纯度及标称差异。保留自动改造人识别；不改变鉴定状态或交易。</Description>
+  <GameVersions>
+    <Version>VERSION 100-Rev3</Version>
+  </GameVersions>
+  <Assemblies>
+    <Assembly>CounterfeitWarning.dll</Assembly>
+  </Assemblies>
+  <Capabilities />
+</Mod>

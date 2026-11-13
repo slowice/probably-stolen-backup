@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mod><ID>local.purifier-ready-highlight</ID><Name>机器红框提示（优质水与电池不足）</Name><Author>Local Custom Mod</Author><ModVersion>1.2.0</ModVersion><Description>净水器内基础水显示黄框、优质水显示红框；机器电池不足显示红框，优先于水质黄框。</Description><GameVersions><Version>VERSION 100-Rev3</Version></GameVersions><Assemblies><Assembly>PurifierReadyHighlight.dll</Assembly></Assemblies><Capabilities/></Mod>
