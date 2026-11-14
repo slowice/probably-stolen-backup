@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod>
+  <ID>local.counterfeit-warning</ID>
+  <Name>假货与改造人提示 / Counterfeit Warning</Name>
+  <Author>Local Custom Mod</Author>
+  <ModVersion>1.4.0</ModVersion>
+  <Description>保留假货原因与改造人识别。鼠标悬停非空水容器时，按实际纯度自动鉴别并更新原生水质标签、对应价格与外观，无需放大镜或试纸；不消耗道具，不改变液体成分。</Description>
+  <GameVersions>
+    <Version>VERSION 100-Rev3</Version>
+  </GameVersions>
+  <Assemblies>
+    <Assembly>CounterfeitWarning.dll</Assembly>
+  </Assemblies>
+  <Capabilities />
+</Mod>

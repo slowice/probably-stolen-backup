@@ -1,0 +1,10 @@
+Probably Stolen 存档与模组备份
+备份日期：2026-11-14
+当前存档：槽位7，水商，第111天，资金16375。
+包含当前存档、存档索引、全局设置、109/110天历史存档，以及全部9个本地模组。
+CounterfeitWarning 1.4.0：悬停水容器自动鉴别并改水质标签。
+PurifierReadyHighlight 1.3.0：水培缺种子红框，保留水质和电池不足提示。
+恢复前完整退出游戏，并自行备份原文件。
+将本目录5个.es3文件复制到 %USERPROFILE%\AppData\LocalLow\Questing Goose Studio\Probably Stolen\。
+将Mods内各模组文件夹复制到游戏Mods目录，启动后确认所需模组已启用。
+SHA256SUMS.txt记录存档与模组文件的SHA-256。
