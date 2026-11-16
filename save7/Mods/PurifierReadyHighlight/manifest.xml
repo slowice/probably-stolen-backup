@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod>
+  <ID>local.purifier-ready-highlight</ID>
+  <Name>机器与电池状态标色</Name>
+  <Author>Local Custom Mod</Author>
+  <ModVersion>1.4.1</ModVersion>
+  <Description>净水器基础水黄框、优质水绿框、纯水蓝框；充能器内满电电池及所在充能器同时红框；保留机器缺电和水培缺种子红框。</Description>
+  <GameVersions>
+    <Version>VERSION 100-Rev3</Version>
+  </GameVersions>
+  <Assemblies>
+    <Assembly>PurifierReadyHighlight.dll</Assembly>
+  </Assemblies>
+  <Capabilities />
+</Mod>

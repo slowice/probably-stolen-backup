@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mod><ID>local.learning-module-highlight</ID><Name>自学习模组红框 / Learning Module Highlight</Name><Author>Local Custom Mod</Author><ModVersion>1.1.0</ModVersion><Description>带有自学习算法效果，或同时具有负反馈与优质效果的模组显示红框，包括商人商品与自有模组。</Description><GameVersions><Version>VERSION 100-Rev3</Version></GameVersions><Assemblies><Assembly>LearningModuleHighlight.dll</Assembly></Assemblies><Capabilities/></Mod>

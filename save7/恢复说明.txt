@@ -1,0 +1,5 @@
+备份日期：2026-11-16（北京时间）
+主存档：水商，槽位7，第163天，最后保存于2026-11-15 23:32。
+包含同槽位第161/162天自动历史备份及当前安装的10个MOD。
+恢复前退出游戏并备份本地。将根目录的ES3文件放回 C:\Users\Administrator\AppData\LocalLow\Questing Goose Studio\Probably Stolen；将Mods内各目录放入游戏安装目录的Mods。
+不要将整个save7目录放进Mods。重启游戏加载MOD。
