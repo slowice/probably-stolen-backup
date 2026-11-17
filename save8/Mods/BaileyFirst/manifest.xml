@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mod><ID>local.bailey-first</ID><Name>詹姆斯贝利优先来访 / Bailey First</Name><Author>Local Custom Mod</Author><ModVersion>1.2.0</ModVersion><Description>当天访客中存在詹姆斯贝利时将其移至队首，支持首次与回访，不增加来访次数。回访箱子固定为黑色证物箱。当天来访的卖货小偷（含食品、杂货等类型）排在贝利之后、其他客人之前。</Description><GameVersions><Version>VERSION 100-Rev3</Version></GameVersions><Assemblies><Assembly>BaileyFirst.dll</Assembly></Assemblies><Capabilities/></Mod>

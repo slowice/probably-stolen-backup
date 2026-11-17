@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mod>
+ <ID>local.buyer-demand-highlight</ID>
+ <Name>买家需求高亮 / Buyer Demand Highlight</Name>
+ <Author>Local Custom Mod</Author>
+ <ModVersion>1.0.0</ModVersion>
+ <Description>接待买家时自动为符合需求的自有物品显示绿色边框，覆盖库存、柜台、展示柜及打开的容器。随买家和物品状态更新。</Description>
+ <GameVersions><Version>VERSION 100-Rev3</Version></GameVersions>
+ <Assemblies><Assembly>BuyerDemandHighlight.dll</Assembly></Assemblies>
+ <Capabilities/>
+</Mod>

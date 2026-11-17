@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mod>
+  <ID>local.purifier-ready-highlight</ID>
+  <Name>机器与电池状态标色</Name>
+  <Author>Local Custom Mod</Author>
+  <ModVersion>1.6.3</ModVersion>
+  <Description>净水器基础水黄框、优质水绿框、纯水蓝框；充能器内满电电池及所在充能器同时红框；保留机器缺电和水培缺种子红框。；贩卖机货架内贩卖估值不大于0的不可售商品显示红框，不标记仅成交概率低的商品。；过夜结算前及每台水培机收获后、出料口运行前，将本机产物栏的第一份种子补入空种子槽，保留原生水电和生长规则。；水培收获期间，启用有物品产出时搬运的进料斗立即搬运，暂留一份种子优先补种。</Description>
+  <GameVersions>
+    <Version>VERSION 100-Rev3</Version>
+  </GameVersions>
+  <Assemblies>
+    <Assembly>PurifierReadyHighlight.dll</Assembly>
+  </Assemblies>
+  <Capabilities />
+</Mod>
+
+
