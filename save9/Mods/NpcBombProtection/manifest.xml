@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Mod>
+  <ID>local.npc-bomb-protection</ID>
+  <Name>防 NPC 炸店 / NPC Bomb Protection</Name>
+  <Author>Local Custom Mod</Author>
+  <ModVersion>1.0.0</ModVersion>
+  <Description>阻止 NPC 炸店导致游戏结束，包括 Lou 玩具箱、欠款报复和阵营炸店。在生成炸弹和锁定操作前拦截，保留正常交易、其他剧情及其他失败条件。</Description>
+  <GameVersions><Version>VERSION 100-Rev3</Version></GameVersions>
+  <Assemblies><Assembly>NpcBombProtection.dll</Assembly></Assemblies>
+  <Capabilities/>
+</Mod>

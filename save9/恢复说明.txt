@@ -1,0 +1,6 @@
+备份日期：2026-11-18（北京时间）
+水商，槽位7，第193天，资金4071；含第191/192天历史存档及10个已安装MOD。
+排队MOD BaileyFirst v1.3.0：超科技商人优先。
+机器状态MOD PurifierReadyHighlight v1.6.4：自动补种、白天和过夜产出漏斗即时搬运。
+恢复前退出游戏并备份本地。将本目录根部ES3文件复制到 %USERPROFILE%\AppData\LocalLow\Questing Goose Studio\Probably Stolen；Mods内各目录复制到游戏Mods目录。完整重启游戏。
+本备份仅包含已保存到磁盘的进度。
